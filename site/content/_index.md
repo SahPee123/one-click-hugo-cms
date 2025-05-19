@@ -3,7 +3,7 @@ title: "  "
 subtitle: "  "
 image: img/blue-illustration-computer-technology-video-banner.png
 blurb:
-  heading: Why Kaldi?
+  heading: Kelstraud Technologies
   text: Kelstraud Technologies is a forward-thinking tech company delivering
     innovative digital services across multiple domains. From affiliate
     marketing and educational software to data processing and IT consulting, we
