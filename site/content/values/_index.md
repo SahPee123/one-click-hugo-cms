@@ -1,6 +1,6 @@
 ---
 title: Values
-image: /img/about-jumbotron.jpg
+image: img/blue-illustration-computer-technology-video-banner-1-.png
 values:
   - heading: Shade-grown coffee
     text: >
